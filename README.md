@@ -5,8 +5,8 @@ Add chromedriver to Program Files x86
 Launch py file
 
 (you have 20 second do to this part)
-   Put in the captcha
-   Click views
+   Put in the captcha,
+   Click views,
    Paste Tiktok link
    
 The bot will click search and send every 6 minutes on its own
