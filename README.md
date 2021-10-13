@@ -1,4 +1,4 @@
-If you need any help join https://discord.gg/EvccGuYQ
+If you need any help join https://discord.gg/CDGznyj9N7
 
 Add chromedriver to Program Files x86
 
